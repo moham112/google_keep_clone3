@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623404480415",
+    "project_id": "keep-clone-e5b0b",
+    "storage_bucket": "keep-clone-e5b0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623404480415:android:33d3a98a3ceb5ab0fbafaa",
+        "android_client_info": {
+          "package_name": "com.example.google_keep_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqptcawxdOaciF1qAXx3RqXATFcm1Tq4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623404480415:android:0f068bb9ce7ce98ffbafaa",
+        "android_client_info": {
+          "package_name": "gkc.amit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqptcawxdOaciF1qAXx3RqXATFcm1Tq4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
